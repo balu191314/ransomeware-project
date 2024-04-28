@@ -32,7 +32,7 @@ Approach
 •	Craft a payload to perform Ret2Libc attack and gain a shell.
 
 Usage
-1.	Run the provided exploit script exploit.py to interact with the challenge.
+1.	Run the provided exploit script solve.py to interact with the challenge.
 2.	Follow the script to leak addresses, calculate bases, and exploit the vulnerability.
 
 Requirements
